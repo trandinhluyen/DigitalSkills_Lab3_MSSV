@@ -1,4 +1,4 @@
-Cyen nganh: Cong nghe thong tin
+Chuyen nganh: Cong nghe thong tin
 --
 ## CHU DE NGHIEN CUU
 [Nhap ten chu de/hoc lieu da chon o Nhiem vu 2]--
